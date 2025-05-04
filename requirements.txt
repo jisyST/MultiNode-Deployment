@@ -1,0 +1,8 @@
+# 需保证ray cluter环境和client环境以下包的版本一致
+ray == 2.35.0
+virtualenv==20.30.0 
+fastapi==0.112.2
+# starlette==0.27.0
+# -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
